@@ -12,6 +12,42 @@ You will need the data from https://owncloud.icm-institute.org/index.php/s/cNu5j
 You will need also to have installed MNE-Python on your machine.
 See instructions at: https://mne.tools/stable/install/mne_python.html
 
+### Schedule
+
+#### Day 1 (Tuesday December 3, 2019)
+
+	08:30 – 09:00 Registration, with coffee/tea + Welcome & intro
+	09:00 – 10:30 Lecture 1: Data organization (Robert) and initial data processing(Alex)
+	10:30 – 12:30 Hands-on: [From raw to ERPs](1-From_raw_to_epochs_evoked_ERF_ERP.ipynb) using MNE
+
+	12:30 – 13:30 Lunch
+
+	13:30 – 15:00 Lecture 2: Sensor level analysis (JM)
+	15:00 – 17:00 Hands-on 2: [Sensor level analysis](TODO) using MNE
+	17:00 – 17:30 Wrap-up / Q&A session
+
+#### Day 2 (Wednesday December 4, 2019)
+
+	09:00 – 10:30 Lecture 3: Forward modeling and anatomical pipeline (Alex & François)
+	10:30 – 12:30 Hands-on 3: [Creating head and forward models](3-Forward_model.ipynb) using MNE
+
+	12:30 – 13:30 Lunch
+
+	13:30 – 15:00 Lecture 4: Source estimation / Inverse problem
+	15:00 – 17:00 Hands-on 4: [Dipole fitting](4a-Inverse_source_localization_dipole_fit.ipynb), [distributed sources](4b-Inverse_source_localization_mne_dspm.ipynb) and beamformers using MNE
+	17:00 – 17:30 Wrap-up / Q&A session
+
+#### Day 3 (Thursday December 5, 2019)
+
+	09:00 – 10:30 Lecture 5: Group level analysis (Robert)
+	10:30 – 12:30 Hands-on 5: [Group level analysis](TODO) using MNE
+
+	12:30 – 13:30 Lunch
+
+	13:30 – 15:00 Lecture 6: Miscellaneous topics
+	15:00 – 17:00 Hands-on 2: Playground and final try out
+	17:00 – 17:30 Wrap-up / Q&A session
+
 The code from this tutorial is heavily inspired from this article:
 
 	Mainak Jas, Eric Larson, Denis Engemann, Jaakko Leppakangas, Samu Taulu, Matti Hamalainen,
@@ -23,8 +59,12 @@ The MNE software when used in publications should be acknowledged using citation
 
 To cite MNE-C or the inverse imaging implementations provided by the MNE software, please use:
 
-	A. Gramfort, M. Luessi, E. Larson, D. Engemann, D. Strohmeier, C. Brodbeck, L. Parkkonen, M. Hämäläinen, MNE software for processing MEG and EEG data, NeuroImage, Volume 86, 1 February 2014, Pages 446-460, ISSN 1053-8119, [DOI]
+	A. Gramfort, M. Luessi, E. Larson, D. Engemann, D. Strohmeier, C. Brodbeck, L. Parkkonen,
+	M. Hämäläinen, MNE software for processing MEG and EEG data, NeuroImage, Volume 86,
+	1 February 2014, Pages 446-460, ISSN 1053-8119, [DOI]
 
 To cite the MNE-Python package, please use:
 
-	A. Gramfort, M. Luessi, E. Larson, D. Engemann, D. Strohmeier, C. Brodbeck, R. Goj, M. Jas, T. Brooks, L. Parkkonen, M. Hämäläinen, MEG and EEG data analysis with MNE-Python, Frontiers in Neuroscience, Volume 7, 2013, ISSN 1662-453X, [DOI]
+	A. Gramfort, M. Luessi, E. Larson, D. Engemann, D. Strohmeier, C. Brodbeck, R. Goj, M. Jas,
+	T. Brooks, L. Parkkonen, M. Hämäläinen, MEG and EEG data analysis with MNE-Python,
+	Frontiers in Neuroscience, Volume 7, 2013, ISSN 1662-453X, [DOI]
