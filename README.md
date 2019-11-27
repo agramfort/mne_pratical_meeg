@@ -14,6 +14,9 @@ See instructions at: https://mne.tools/stable/install/mne_python.html
 
 ### Schedule
 
+Before you arrive if you do not know any Python I invite you to read these tutorials:
+[intro Python](0a-Intro_Python.ipynb), [intro Numpy](0b-Intro_Numpy.ipynb).
+
 #### Day 1 (Tuesday December 3, 2019)
 
  - 08:30 – 09:00 Registration, with coffee/tea + Welcome & intro
@@ -22,8 +25,8 @@ See instructions at: https://mne.tools/stable/install/mne_python.html
 
  - 12:30 – 13:30 Lunch
 
- - 13:30 – 15:00 Lecture 2: Sensor level analysis (JM)
- - 15:00 – 17:00 Hands-on 2: [Sensor level analysis](TODO) using MNE
+ - 13:30 – 15:00 Lecture 2: Time-Frequency analysis (JM)
+ - 15:00 – 17:00 Hands-on 2: [Time-Frequency analysis](2-sensors_time_frequency.ipynb) using MNE
  - 17:00 – 17:30 Wrap-up / Q&A session
 
 #### Day 2 (Wednesday December 4, 2019)
