@@ -51,6 +51,15 @@ Before you arrive if you do not know any Python I invite you to read these tutor
  - 15:00 – 17:00 Hands-on 2: Playground and final try out
  - 17:00 – 17:30 Wrap-up / Q&A session
 
+
+### Bring your own data
+
+The last session will be mostly dedicated to adressing participants' requests. We encourage
+you to prepare some EEG/MEG/ECoG/sEEG data you would be interested in processing with MNE.
+If you are coming with colleagues, try to organize small groups with similar interests (1-4 people).
+
+### Cite
+
 The code from this tutorial is heavily inspired from this article:
 
 	Mainak Jas, Eric Larson, Denis Engemann, Jaakko Leppakangas, Samu Taulu, Matti Hamalainen,
